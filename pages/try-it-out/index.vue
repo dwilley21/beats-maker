@@ -1,0 +1,1 @@
+<template><div class="min-h-screen bg-brown-dark text-offwhite"><h1 class="text-center pt-20">Lyric Beat Maker</h1></div></template><script setup>import { ref } from "vue"; const lyrics = ref(""); const genre = ref("hip-hop"); const bpm = ref(90);</script>
