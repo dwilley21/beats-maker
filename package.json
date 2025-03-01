@@ -1,0 +1,17 @@
+{
+  "name": "beats-maker",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A web application for creating and sharing beats",
+  "scripts": {
+    "start": "echo \"Start script to be implemented\"",
+    "test": "echo \"Test script to be implemented\""
+  },
+  "keywords": [
+    "music",
+    "beats",
+    "audio"
+  ],
+  "author": "",
+  "license": "MIT"
+}
